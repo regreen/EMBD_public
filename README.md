@@ -3,7 +3,7 @@
 ### ABOUT EMBD_public repository ###
 The code for this project was written in Python 2.7
 
-### This folder consists of code used in the C. elegans embryonic development project that is described here: ###
+This folder consists of code used in the C. elegans embryonic development project that is described here:
 
 2023- Automated Profiling of Gene Function During Embryonic Development
 *Rebecca A. Green1,2†, Renat N. Khaliullin1†, Zhiling Zhao1, Stacy. D. Ochoa1, Jeffrey M. Hendel1, Tiffany-Lynn Chow1, HongKee Moon1, Ronald J. Biggs1, Arshad Desai1 and Karen Oegema1*. (submitted to Cell in March 2023)
