@@ -1,7 +1,7 @@
 '''
 Created on Mar 3, 2017
 
-@author: Admin
+@author: Renat
 '''
 
 import myFunc
