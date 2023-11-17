@@ -8,6 +8,8 @@ This folder consists of code used in the C. elegans embryonic development projec
 2023- Automated Profiling of Gene Function During Embryonic Development
 *Rebecca A. Green1,2†, Renat N. Khaliullin1†, Zhiling Zhao1, Stacy. D. Ochoa1, Jeffrey M. Hendel1, Tiffany-Lynn Chow1, HongKee Moon1, Ronald J. Biggs1, Arshad Desai1 and Karen Oegema1*. (submitted to Cell in March 2023)
 
+[![DOI](https://zenodo.org/badge/617578505.svg)](https://zenodo.org/doi/10.5281/zenodo.10150302)
+
 
 ## There are 3 folders within this repository: ##
 ### *development* ###
